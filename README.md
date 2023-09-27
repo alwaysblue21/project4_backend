@@ -2,7 +2,7 @@
 - **Project Name:** Restaurant reservation app
 - **Project By:** Je Min Yun
 - [**LINK TO GITHUB**](https://github.com/alwaysblue21/project4_backend)
-- [**LINK TO DEPLOYED WEBSITE**]
+- [**LINK TO DEPLOYED WEBSITE**](https://project4-backend-3t5f.onrender.com/reservs/)
 - **List of Technologies used:** Neon, Django, Python, Rest Framework, Psycopg2 Binary
 ## Description
 Restaurant reservation app helps host / hostess to keep track of customer reservations. Users can easily add customer information.
